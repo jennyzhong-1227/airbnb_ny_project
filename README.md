@@ -41,7 +41,7 @@ This project focuses on analyzing guest satisfaction through various data prepro
 - Pricing dynamics and high levels of cleanliness were found to have a strong positive impact on guest reviews.
 
 ## 🧾 Report
-The HTML report (`Report.html`) includes a detailed discussion of our methodology, results, and key findings, making it easy for stakeholders to navigate and understand.
+The HTML report (`Report.html`link: https://github.com/jennyzhong-1227/airbnb_ny_project/blob/main/APAN-5205-Report-RMarkdown.html) includes a detailed discussion of our methodology, results, and key findings, making it easy for stakeholders to navigate and understand.
 
 
 ## 📱 Contact
